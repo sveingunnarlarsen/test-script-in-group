@@ -1,0 +1,7 @@
+.wfEmbeddedApp img {
+    border-radius: 10px;
+}
+
+.wfEmbeddedApp .sapMLabel.sapUiSelectable.sapMLabelWrapped.sapMLabelMaxWidth.sapUiFormLabel-CTX bdi {
+    color: #2A4572;
+}
